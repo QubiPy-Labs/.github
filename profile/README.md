@@ -5,7 +5,7 @@
 
 ## About Us
 
-QubiPy Labs is an open source organization dedicated to developing tools and libraries for the Qubic ecosystem. Our mission is to make blockchain development more accessible and efficient for Python developers.
+QubiPy Labs is an open source organization founded by [Kyoto](https://github.com/Mazzya) dedicated to developing python tools and libraries for the Qubic ecosystem. Our mission is to make blockchain development more accessible and efficient for Python developers.
 
 ### 🚀 Our Projects
 
