@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/qubipy-labs-logo.png" alt="QubiPy Labs Logo" width="300"/>
+  <img src="assets/banner.png" alt="QubiPy Labs Logo" width="800"/>
   <h1>Welcome to QubiPy Labs 👋</h1>
 </div>
 
